@@ -14,4 +14,4 @@ produção de conteúdo em escala para audiências técnicas e executivas. Acred
 Power BI · DAX · Excel · Power Query
 
 ### Contato
-[LinkedIn](www.linkedin.com/in/isadora-do-nascimento-gomes-665790137) · isa.gomes98@gmail.com
+(47)98880-1653
