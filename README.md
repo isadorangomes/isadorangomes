@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, sou Isadora Gomes 👋
 
-<!--
-**isadorangomes/isadorangomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Inteligência de Mercado | Biomédica | MBA em IM
 
-Here are some ideas to get you started:
+Combino análise de dados com relacionamento com clientes — 
+do dashboard à reunião estratégica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos
+- 🛍️ [Dashboard Vendas Varejo de Moda](https://github.com/isadorangomes/dashboard-vendas-moda-powerbi.git)
+
+### Ferramentas
+Power BI · DAX · Excel · Power Query
+
+### Contato
+[LinkedIn](www.linkedin.com/in/isadora-do-nascimento-gomes-665790137) · isa.gomes98@gmail.com
